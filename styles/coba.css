@@ -6,8 +6,8 @@
   --c2: #92a9bd;
   --c3: #7c99ac;
   --c4: #ffefef;
-  --default-padding-top: 5em;
-  --default-padding-bottom: 10em;
+  --default-padding-top: 3em;
+  --default-padding-bottom: 7em;
 }
 
 html {
@@ -17,6 +17,7 @@ html {
 body {
   height: auto;
   width: 100%;
+  min-width: 1300px;
   margin: auto;
   padding: auto;
   font-family: "Poppins";
